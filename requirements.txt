@@ -9,6 +9,7 @@ ImageHash==4.1.0
 itsdangerous==1.1.0
 Jinja2==2.11.2
 joblib==0.16.0
+jsonify==0.5
 kiwisolver==1.2.0
 MarkupSafe==1.1.1
 matplotlib==3.2.1
